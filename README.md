@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @code-emo
+- 👀 I’m interested in php & golang
+- 🌱 I’m currently learning golang
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 
